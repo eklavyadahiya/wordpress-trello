@@ -1,0 +1,19 @@
+{
+  "name": "wordpress-trello",
+  "version": "0.0.1",
+  "description": "Dynamically update trello boards based on wordpress activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklavyadahiya/wordpress-trello.git"
+  },
+  "author": "Eklavya Dahiya",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/eklavyadahiya/wordpress-trello/issues"
+  },
+  "homepage": "https://github.com/eklavyadahiya/wordpress-trello#readme"
+}
