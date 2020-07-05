@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/eklavyadahiya/wordpress-trello/issues"
   },
-  "homepage": "https://github.com/eklavyadahiya/wordpress-trello#readme"
+  "homepage": "https://github.com/eklavyadahiya/wordpress-trello#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  }
 }
